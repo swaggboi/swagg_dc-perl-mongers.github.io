@@ -37,7 +37,7 @@ See the [Meeting Notes](http://dc.pm.org/Meeting_Notes), for links and details.
 
 Recent topics:
 
-- 2022-05-03 - Michael R. Davis created a [GitHub Organization for DCPM](https://github.com/dc-perl-mongers) and posted a mock up of a [Git Pages](https://dc-perl-mongers.github.io/)
+- 2022-05-03 - Michael R. Davis created a [GitHub Organization for DCPM](https://github.com/dc-perl-mongers) and posted a mock up of a DCPM using Markdown on [Git Pages](https://dc-perl-mongers.github.io/)
 - 2021-09-08 - 7:00PM - dcpm's jit.si - Philip Hood & JE Turcotte to present: AWS Lambda, Perl & Raku for the Busy (& Lazy) Working Programmer.
 - 2021-08-03 - Zakariyya Mughal presented: [Introduction to Kubernetes Workshop](https://github.com/zmughal-biblio/talk-dcpm-intro-to-kubernetes-20210803/blob/master/TALK.md)
   - The talk will cover the Kubernetes container orchestration tool and how to use it to configure a cluster. First we'll cover the core concepts/processes of what makes up a Kubernetes cluster. Then we'll work step-by-step on how to test out Kubernetes configurations locally using `minikube`. Finally, we'll discuss specific applications/patterns for using Kubernetes and other alternatives for orchestration. Basic knowledge of Docker / containers is assumed.
