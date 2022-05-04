@@ -1,0 +1,12 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Meeting Logistics
+  url: Meeting_Logistics/
+
+- title: How To Contribute
+  url: How_To_Contribute/
+
+- title: Meeting Notes
+  url: Meeting_Notes/
